@@ -808,23 +808,23 @@ body {
 
 /* Individual social icon styles using your assets */
 .social-links a.twitter {
-    background-image: url('assets/frame 35.png');
+    background-image: url('assets/Frame 35.png');
 }
 
 .social-links a.facebook {
-    background-image: url('assets/frame 36.png');
+    background-image: url('assets/Frame 36.png');
 }
 
 .social-links a.instagram {
-    background-image: url('assets/frame 37.png');
+    background-image: url('assets/Frame 37.png');
 }
 
 .social-links a.youtube {
-    background-image: url('assets/frame 38.png');
+    background-image: url('assets/Frame 38.png');
 }
 
 .social-links a.pinterest {
-    background-image: url('assets/frame 39.png');
+    background-image: url('assets/Frame 39.png');
 }
 
 .social-links a:hover {
